@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/wangkuan/Desktop/Test－code/achartengine/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="7c3b3aae99c26d79cb7e33e0e067a5a2147a5213">
+        <dex dex="/Users/wangkuan/Desktop/Test－code/achartengine/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_81dccbb03773ca6618ee52eb3895b2ed90ceb7c3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/wangkuan/Desktop/Test－code/achartengine/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8e154ac26b96b76b2668a644e1ef5d9efebea6f5">
+        <dex dex="/Users/wangkuan/Desktop/Test－code/achartengine/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e364794b1b3a36c390b10d347fb9afa8e963e3dc/classes.dex" />
+    </item>
+
+</items>
