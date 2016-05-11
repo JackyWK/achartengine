@@ -69,6 +69,7 @@ public abstract class XYChart extends AbstractChart {
   /** The paint to be used when drawing the grid lines. */
   protected transient Paint mGridPaint;
 
+  //TEST add by wk 20160511
   /**
    * The clickable areas for all points. The array index is the series index,
    * and the RectF list index is the point index in that series.
