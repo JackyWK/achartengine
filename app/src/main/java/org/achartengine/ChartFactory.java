@@ -53,6 +53,7 @@ public class ChartFactory {
     // empty
   }
 
+
   /**
    * Creates a line chart view.
    * 
