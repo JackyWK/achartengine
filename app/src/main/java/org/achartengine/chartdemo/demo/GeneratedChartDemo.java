@@ -118,6 +118,7 @@ public class GeneratedChartDemo extends ListActivity {
     return dataset;
   }
 
+  //renderer：渲染器 20160513 wk
   private XYMultipleSeriesRenderer getDemoRenderer() {
     XYMultipleSeriesRenderer renderer = new XYMultipleSeriesRenderer();
     renderer.setAxisTitleTextSize(16);
